@@ -1,0 +1,6 @@
+transaction is okay
+transation has an error
+login faied
+login success with error
+errors are appeared in a debug screen
+account information is populated
